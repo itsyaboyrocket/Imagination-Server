@@ -1,0 +1,14 @@
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\bin\Debug\ImaginationServer.GameLauncher.exe.config
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\bin\Debug\ImaginationServer.GameLauncher.exe
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\bin\Debug\ImaginationServer.GameLauncher.pdb
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\MainWindow.g.cs
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\App.g.cs
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\ImaginationServer.GameLauncher_MarkupCompile.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\ImaginationServer.GameLauncher_MarkupCompile.lref
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\MainWindow.baml
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\ImaginationServer.GameLauncher.g.resources
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\ImaginationServer.GameLauncher.Properties.Resources.resources
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\ImaginationServer.GameLauncher.csproj.GenerateResource.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\ImaginationServer.GameLauncher.csproj.CoreCompileInputs.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\ImaginationServer.GameLauncher.exe
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.GameLauncher\obj\Debug\ImaginationServer.GameLauncher.pdb

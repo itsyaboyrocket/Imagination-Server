@@ -1,0 +1,116 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly ImaginationServer.Core, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class WBitStream: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Byte*, Int32, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(RakNet.BitStream*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    RakNet.BitStream* Instance : Public
+  Methods:
+    Write(WBitStream, UInt32): PrivateScope, Public, HideBySig
+    Write(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Write(Single): PrivateScope, Public, HideBySig
+    Write(basic_string<wchar_t\,std::char_traits<wchar_t>\,std::allocator<wchar_t> >*, Boolean(HasFieldMarshal), Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Write(Byte[]): PrivateScope, Public, HideBySig
+    Write(Byte*): PrivateScope, Public, HideBySig
+    Write(SByte*): PrivateScope, Public, HideBySig
+    Write(SByte*, Int32, Int32): PrivateScope, Public, HideBySig
+    Write(Byte*, Int32): PrivateScope, Public, HideBySig
+    Write(SByte*, Int32): PrivateScope, Public, HideBySig
+    Write(Int64): PrivateScope, Public, HideBySig
+    Write(Int32 IsLong): PrivateScope, Public, HideBySig
+    Write(UInt64): PrivateScope, Public, HideBySig
+    Write(UInt32 IsLong): PrivateScope, Public, HideBySig
+    Write(UInt16): PrivateScope, Public, HideBySig
+    Write(Byte): PrivateScope, Public, HideBySig
+    WriteChars(String): PrivateScope, Public, HideBySig
+    WriteString(String, Int32, Int32): PrivateScope, Public, HideBySig
+    WriteString(String, Int32): PrivateScope, Public, HideBySig
+    WriteWString(String, Boolean(HasFieldMarshal), Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    GetNumberOfBytesUsed(): PrivateScope, Public, HideBySig
+    GetBytes(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class BaseServer: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  Fields:
+    SByte* Address : Public
+  Methods:
+    SendInitPacket(Boolean(HasFieldMarshal), String): PrivateScope, Public, HideBySig
+    Start(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Stop(): PrivateScope, Public, HideBySig
+    Service(): PrivateScope, Public, HideBySig
+    GetPeer(): PrivateScope, Public, HideBySig
+    GetReplicaManager(): PrivateScope, Public, HideBySig
+    Send(WBitStream, WPacketPriority, WPacketReliability, SByte IsSignUnspecifiedByte, String, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+Struct WPacketPriority: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    WPacketPriority SystemPriority = 0 : Public, Static, Literal, HasDefault
+    WPacketPriority HighPriority = 1 : Public, Static, Literal, HasDefault
+    WPacketPriority MediumPriority = 2 : Public, Static, Literal, HasDefault
+    WPacketPriority LowPriority = 3 : Public, Static, Literal, HasDefault
+    WPacketPriority NumberOfPriorities = 4 : Public, Static, Literal, HasDefault
+Struct WPacketReliability: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    WPacketReliability Unreliable = 0 : Public, Static, Literal, HasDefault
+    WPacketReliability UnreliableSequenced = 1 : Public, Static, Literal, HasDefault
+    WPacketReliability Reliable = 2 : Public, Static, Literal, HasDefault
+    WPacketReliability ReliableOrdered = 3 : Public, Static, Literal, HasDefault
+    WPacketReliability ReliabledSequenced = 4 : Public, Static, Literal, HasDefault
+    WPacketReliability NumberOfReliabilities = 5 : Public, Static, Literal, HasDefault
+Struct RakPeerInterface: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Abstract, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ReplicaManager: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ReplicaManager+CommandStruct: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ReplicaManager+RegisteredReplica: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ReplicaManager+RemoteObject: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ReplicaManager+ReceivedCommand: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct ReplicaManager+ParticipantStruct: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class ReplicaComponent: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    WriteToPacket(WBitStream, ReplicaPacketType): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    GetComponentId(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class ReplicaObject: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(BaseServer): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    BaseServer Server : Public
+    Int64 ObjectId : Public
+    System.String Name : Public
+    UInt32 Lot IsLong : Public
+    Byte GmLevel : Public
+    UInt16 World : Public
+    System.Collections.Generic.List`1[ReplicaComponent] Components : Public
+  Methods:
+    WriteToPacket(WBitStream, ReplicaPacketType): PrivateScope, Public, HideBySig
+    Construct(BaseServer, String): PrivateScope, Public, HideBySig
+    GetMember(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct ReplicaPacketType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    ReplicaPacketType Construction = 0 : Public, Static, Literal, HasDefault
+    ReplicaPacketType Serialization = 1 : Public, Static, Literal, HasDefault
+    ReplicaPacketType Destruction = 2 : Public, Static, Literal, HasDefault

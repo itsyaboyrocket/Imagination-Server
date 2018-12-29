@@ -1,0 +1,14 @@
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\bin\Debug\ImaginationServer.ControlPanel.exe.config
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\bin\Debug\ImaginationServer.ControlPanel.exe
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\bin\Debug\ImaginationServer.ControlPanel.pdb
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\MainWindow.g.cs
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\App.g.cs
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\ImaginationServer.ControlPanel_MarkupCompile.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\ImaginationServer.ControlPanel_MarkupCompile.lref
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\MainWindow.baml
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\ImaginationServer.ControlPanel.g.resources
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\ImaginationServer.ControlPanel.Properties.Resources.resources
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\ImaginationServer.ControlPanel.csproj.GenerateResource.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\ImaginationServer.ControlPanel.csproj.CoreCompileInputs.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\ImaginationServer.ControlPanel.exe
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.ControlPanel\obj\Debug\ImaginationServer.ControlPanel.pdb

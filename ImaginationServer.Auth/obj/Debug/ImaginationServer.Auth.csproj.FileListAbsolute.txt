@@ -1,0 +1,8 @@
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Auth\obj\Debug\ImaginationServer.Auth.csprojAssemblyReference.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Auth\obj\Debug\ImaginationServer.Auth.csproj.CoreCompileInputs.cache
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\Auth\ImaginationServer.Auth.dll.config
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\Auth\ImaginationServer.Auth.dll
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\Auth\ImaginationServer.Auth.pdb
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Auth\obj\Debug\ImaginationServer.Auth.csproj.CopyComplete
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Auth\obj\Debug\ImaginationServer.Auth.dll
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Auth\obj\Debug\ImaginationServer.Auth.pdb

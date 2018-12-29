@@ -1,0 +1,8 @@
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.World\obj\Debug\ImaginationServer.World.csprojAssemblyReference.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.World\obj\Debug\ImaginationServer.World.csproj.CoreCompileInputs.cache
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\World\ImaginationServer.World.dll.config
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\World\ImaginationServer.World.dll
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\World\ImaginationServer.World.pdb
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.World\obj\Debug\ImaginationServer.World.csproj.CopyComplete
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.World\obj\Debug\ImaginationServer.World.dll
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.World\obj\Debug\ImaginationServer.World.pdb

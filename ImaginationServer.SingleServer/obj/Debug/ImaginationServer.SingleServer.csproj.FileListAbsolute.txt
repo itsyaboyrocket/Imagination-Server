@@ -1,0 +1,8 @@
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\SingleServer\ImaginationServer.SingleServer.exe.config
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\SingleServer\ImaginationServer.SingleServer.exe
+F:\LegoUniverse\Imagination-ServerRocket\Build\Debug\SingleServer\ImaginationServer.SingleServer.pdb
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.SingleServer\obj\Debug\ImaginationServer.SingleServer.csprojAssemblyReference.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.SingleServer\obj\Debug\ImaginationServer.SingleServer.csproj.CoreCompileInputs.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.SingleServer\obj\Debug\ImaginationServer.SingleServer.csproj.CopyComplete
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.SingleServer\obj\Debug\ImaginationServer.SingleServer.exe
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.SingleServer\obj\Debug\ImaginationServer.SingleServer.pdb

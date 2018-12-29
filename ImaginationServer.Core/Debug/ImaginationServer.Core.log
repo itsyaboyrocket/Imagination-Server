@@ -1,0 +1,64 @@
+﻿  AssemblyInfo.cpp
+  BaseServer.cpp
+F:\LegoUniverse\Imagination-ServerRocket\RakNet\Headers\BigTypes.h(1823): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+  ReplicaMember.cpp
+  ReplicaObject.cpp
+  WBitStream.cpp
+WBitStream.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+f:\legouniverse\imagination-serverrocket\imaginationserver.core\wbitstream.cpp(142): warning C4700: uninitialized local variable 'native' used
+f:\legouniverse\imagination-serverrocket\raknet\headers\bigtypes.h(668): warning C4793: 'big::add<unsigned int [8]>': function compiled as native:
+  	Inline native assembly not supported in managed code
+f:\legouniverse\imagination-serverrocket\raknet\headers\bigtypes.h(668): warning C4793: 'big::add<unsigned int [16]>': function compiled as native:
+  	Inline native assembly not supported in managed code
+f:\legouniverse\imagination-serverrocket\raknet\headers\bigtypes.h(790): warning C4793: 'big::subtract<unsigned int [4]>': function compiled as native:
+  	Inline native assembly not supported in managed code
+f:\legouniverse\imagination-serverrocket\raknet\headers\bigtypes.h(790): warning C4793: 'big::subtract<unsigned int [8]>': function compiled as native:
+  	Inline native assembly not supported in managed code
+f:\legouniverse\imagination-serverrocket\raknet\headers\bigtypes.h(668): warning C4793: 'big::add<unsigned int [4]>': function compiled as native:
+  	Inline native assembly not supported in managed code
+f:\legouniverse\imagination-serverrocket\raknet\headers\bigtypes.h(790): warning C4793: 'big::subtract<unsigned int [16]>': function compiled as native:
+  	Inline native assembly not supported in managed code
+  .NETFramework,Version=v4.6.AssemblyAttributes.cpp
+RakNetLibStaticDebug.lib(NetworkIDObject.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+RakNetLibStaticDebug.lib(BitStream.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(BitStream.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(CheckSum.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(CheckSum.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(CommandParserInterface.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(CommandParserInterface.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(ConnectionGraph.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(ConnectionGraph.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(ConsoleServer.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(ConsoleServer.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(DataBlockEncryptor.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(DataBlockEncryptor.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(DS_HuffmanEncodingTree.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(DS_HuffmanEncodingTree.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(GetTime.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(GetTime.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(Itoa.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(Itoa.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(LogCommandParser.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(LogCommandParser.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(NetworkIDManager.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(NetworkIDManager.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(NetworkIDObject.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(NetworkIDObject.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(PacketConsoleLogger.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(PacketConsoleLogger.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(PacketFileLogger.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(PacketFileLogger.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(PacketLogger.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(PacketLogger.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(PluginInterface.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(PluginInterface.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakMemoryOverride.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakMemoryOverride.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakNetCommandParser.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakNetCommandParser.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakNetTransport.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakNetTransport.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakNetTypes.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakNetTypes.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakNetworkFactory.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakNetworkFactory.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakPeer.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakPeer.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakSleep.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakSleep.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakString.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakString.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RakThread.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RakThread.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(Rand.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(Rand.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(ReliabilityLayer.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(ReliabilityLayer.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(ReplicaManager.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(ReplicaManager.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(rijndael.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(rijndael.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(Router.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(Router.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(RPCMap.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(RPCMap.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(SHA1.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(SHA1.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(SimpleMutex.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(SimpleMutex.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(SocketLayer.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(SocketLayer.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(StringCompressor.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(StringCompressor.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(StringTable.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(StringTable.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(SystemAddressList.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(SystemAddressList.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(TCPInterface.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(TCPInterface.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+RakNetLibStaticDebug.lib(TelnetTransport.obj) : warning LNK4099: PDB 'RakNetLibStaticDebug.pdb' was not found with 'RakNetLibStaticDebug.lib(TelnetTransport.obj)' or at 'F:\LegoUniverse\Imagination-ServerRocket\Debug\RakNetLibStaticDebug.pdb'; linking object as if no debug info
+  ImaginationServer.Core.vcxproj -> F:\LegoUniverse\Imagination-ServerRocket\Debug\ImaginationServer.Core.dll
+  ImaginationServer.Core.vcxproj -> F:\LegoUniverse\Imagination-ServerRocket\Debug\ImaginationServer.Core.pdb (Full PDB)

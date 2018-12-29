@@ -1,0 +1,6 @@
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Util.Sd0Compressor\bin\Debug\ImaginationServer.Util.Sd0Compressor.exe.config
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Util.Sd0Compressor\bin\Debug\ImaginationServer.Util.Sd0Compressor.exe
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Util.Sd0Compressor\bin\Debug\ImaginationServer.Util.Sd0Compressor.pdb
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Util.Sd0Compressor\obj\Debug\ImaginationServer.Util.Sd0Compressor.csproj.CoreCompileInputs.cache
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Util.Sd0Compressor\obj\Debug\ImaginationServer.Util.Sd0Compressor.exe
+F:\LegoUniverse\Imagination-ServerRocket\ImaginationServer.Util.Sd0Compressor\obj\Debug\ImaginationServer.Util.Sd0Compressor.pdb
